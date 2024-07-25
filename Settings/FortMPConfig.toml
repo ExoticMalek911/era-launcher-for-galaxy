@@ -1,0 +1,3 @@
+[client]
+backend_address = '26.227.19.146'
+backend_port = 3551
